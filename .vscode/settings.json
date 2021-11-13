@@ -1,35 +1,52 @@
 {
-   "solidity.packageDefaultDependenciesDirectory": "node_modules/@scaffold-eth/hardhat/node_modules/",
-   "solidity-va.test.defaultUnittestTemplate": "hardhat",
-   "files.exclude": {
-      "**/.git": true,
-      "**/.svn": true,
-      "**/.hg": true,
-      "**/CVS": true,
-      "**/.DS_Store": true,
-      "**/.cache": true,
-      "**/.vs/": true,
-      "**/*.cs": true,
-      "**/*.orig": true,
-      "**/bin/": true,
-      "**/build/": true,
-      "**/debug/": true,
-      "**/dist/": true,
-      "**/node_modules/": true,
-      "**/obj": true,
-      "yarn-error.log": true,
-      "**/yarn-error.log": true,
-      "packages\\eth-hooks/lib": true
-   },
-   "explorerExclude.backup": null,
-   "eslint.workingDirectories": [
-   
-      { "directory": "packages/eth-hooks", "changeProcessCWD": true },
-      { "directory": "packages/hardhat-ts", "changeProcessCWD": true },
-      { "directory": "packages/vite-app-ts", "changeProcessCWD": true },
-   ],
-   "search.exclude": {
-      "**/yarn-error.log": true,
-      "**/yarn.lock": true
-   }
+  "solidity.packageDefaultDependenciesDirectory": "node_modules/@scaffold-eth/hardhat/node_modules/",
+  "solidity-va.test.defaultUnittestTemplate": "hardhat",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.cache": true,
+    "**/.vs/": true,
+    "**/*.cs": true,
+    "**/*.orig": true,
+    "**/bin/": true,
+    "**/build/": true,
+    "**/debug/": true,
+    "**/dist/": true,
+    "**/node_modules/": false,
+    "**/obj": true,
+    "yarn-error.log": true,
+    "**/yarn-error.log": true,
+    "packages\\eth-hooks/lib": true
+  },
+  "explorerExclude.backup": null,
+  "eslint.workingDirectories": [
+    { "directory": "packages/eth-hooks", "changeProcessCWD": true },
+    { "directory": "packages/hardhat-ts", "changeProcessCWD": true },
+    { "directory": "packages/vite-app-ts", "changeProcessCWD": true }
+  ],
+  "search.exclude": {
+    "**/yarn-error.log": true,
+    "**/yarn.lock": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#b36d00",
+    "activityBar.activeBorder": "#00df88",
+    "activityBar.background": "#b36d00",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#00df88",
+    "activityBarBadge.foreground": "#15202b",
+    "statusBar.background": "#804e00",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#b36d00",
+    "titleBar.activeBackground": "#804e00",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#804e0099",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#804e00",
+  "typescript.tsdk": "node_modules/typescript/lib"
 }

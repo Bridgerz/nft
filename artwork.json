@@ -65,18 +65,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=fish",
     "image": "https://austingriffith.com/images/paintings/fish.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "blue"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 15
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 15
+      }
     ]
   },
   {
@@ -85,18 +85,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=flamingo",
     "image": "https://austingriffith.com/images/paintings/flamingo.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "black"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 6
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "black"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 6
+      }
     ]
   },
   {
@@ -105,18 +105,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=godzilla",
     "image": "https://austingriffith.com/images/paintings/godzilla.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "orange"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 99
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 99
+      }
     ]
   },
   {
@@ -125,18 +125,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=antelope",
     "image": "https://austingriffith.com/images/paintings/antelope.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "purple"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 86
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 86
+      }
     ]
   },
   {
@@ -145,18 +145,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=bear",
     "image": "https://austingriffith.com/images/paintings/bear.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "green"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 47
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 47
+      }
     ]
   },
   {
@@ -165,18 +165,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=elephant",
     "image": "https://austingriffith.com/images/paintings/elephant.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "orange"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 38
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 38
+      }
     ]
   },
   {
@@ -185,18 +185,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=hippo",
     "image": "https://austingriffith.com/images/paintings/hippo.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "green"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 39
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 39
+      }
     ]
   },
   {
@@ -205,18 +205,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=lobster",
     "image": "https://austingriffith.com/images/paintings/lobster.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "grey"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 12
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "grey"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 12
+      }
     ]
   },
   {
@@ -225,18 +225,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=mountaingoat",
     "image": "https://austingriffith.com/images/paintings/mountaingoat.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "blue"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 70
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 70
+      }
     ]
   },
   {
@@ -245,18 +245,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=octopus",
     "image": "https://austingriffith.com/images/paintings/octopus.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "purple"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 41
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 41
+      }
     ]
   },
   {
@@ -265,18 +265,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=ox",
     "image": "https://austingriffith.com/images/paintings/ox.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "blue"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 59
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 59
+      }
     ]
   },
   {
@@ -285,18 +285,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=penguin",
     "image": "https://austingriffith.com/images/paintings/penguin.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "orange"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 23
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 23
+      }
     ]
   },
   {
@@ -305,18 +305,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=walrus",
     "image": "https://austingriffith.com/images/paintings/walrus.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "orange"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 23
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 23
+      }
     ]
   },
   {
@@ -325,18 +325,18 @@
     "external_url": "https://austingriffith.com/portfolio/paintings/?id=killerwhale",
     "image": "https://austingriffith.com/images/paintings/killerwhale.jpg",
     "attributes": [
-       {
-         "trait_type": "BackgroundColor",
-         "value": "green"
-       },
-       {
-         "trait_type": "Eyes",
-         "value": "googly"
-       },
-       {
-         "trait_type": "Stamina",
-         "value": 87
-       }
+      {
+        "trait_type": "BackgroundColor",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "googly"
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 87
+      }
     ]
   }
 ]
