@@ -3,9 +3,8 @@ import logo from "./logo.jpg";
 import "./App.css";
 
 function App() {
-  useEffect(() => {
-    document.title = "Celostrials";
-  }, []);
+  document.title = "Celostrials";
+
   return (
     <div className="App">
       <div class="stars"></div>
@@ -30,6 +29,3 @@ function App() {
 }
 
 export default App;
-function useEffect(arg0: () => void, arg1: never[]) {
-  throw new Error("Function not implemented.");
-}
