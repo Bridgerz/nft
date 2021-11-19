@@ -3,8 +3,6 @@ import logo from "./logo.jpg"
 import "./App.css"
 
 function App() {
-  document.title = "Celostrials"
-
   return (
     <div className="App">
       <div className="stars"></div>
