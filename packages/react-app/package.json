@@ -4,7 +4,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@apollo/client": "^3.4.9",
     "@chakra-ui/react": "^1.6.12",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
@@ -23,7 +22,6 @@
     "ethers": "^5.4.5",
     "formik": "^2.2.9",
     "framer-motion": "^4",
-    "graphql": "^14.0.2",
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
     "react-countup": "^5.2.0",
@@ -36,8 +34,7 @@
     "recoil": "^0.4.0",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1",
-    "web3-react": "^5.0.5",
-    "yup": "^0.32.9"
+    "web3-react": "^5.0.5"
   },
   "resolutions": {
     "@chakra-ui/color-mode": "<1.2.0"
@@ -46,10 +43,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "subgraph-codegen": "yarn graphql-codegen --config src/graphql/subgraph/codegen.yml",
-    "resource-network-codegen": "yarn graphql-codegen --config src/graphql/resource-network/codegen.yml",
-    "codegen": "yarn run subgraph-codegen && yarn run resource-network-codegen"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
