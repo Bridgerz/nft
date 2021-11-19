@@ -1,20 +1,20 @@
-import React from "react";
-import logo from "./logo.jpg";
-import "./App.css";
+import React from "react"
+import logo from "./logo.jpg"
+import "./App.css"
 
 function App() {
-  document.title = "Celostrials";
+  document.title = "Celostrials"
 
   return (
     <div className="App">
-      <div class="stars"></div>
-      <div class="twinkling"></div>
+      <div className="stars"></div>
+      <div className="twinkling"></div>
       <header className="App-header">
         <div style={{ zIndex: 1 }}>
-          <h1 className="test" style={{ "margin-bottom": 0 }}>
+          <h1 className="test" style={{ marginBottom: 0 }}>
             Celostrials
           </h1>
-          <p style={{ "margin-top": "1em", "margin-bottom": "2em" }}>
+          <p style={{ marginTop: "1em", marginBottom: "2em" }}>
             Coming soon to a solar system near you...
           </p>
           <div className="homecardContainerContainer">
@@ -25,7 +25,7 @@ function App() {
         </div>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
